@@ -3,5 +3,5 @@ An basic code showcasing use of OData. Open Data Protocol (OData) is a data acce
 
 
 ## References
-https://www.odata.org/getting-started/basic-tutorial/
-https://www.youtube.com/watch?v=Q3Ove-2Uh94
+- https://www.odata.org/getting-started/basic-tutorial/
+- https://www.youtube.com/watch?v=Q3Ove-2Uh94
